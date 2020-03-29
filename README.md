@@ -1,4 +1,7 @@
 <p align="center">
+<img src="./static/be-the-hero.png" 
+alt="Be The Hero"
+>
 <h1 align="center" >Semana Omnistack 11</h1>
 <p align="center">Projeto <strong>Be The Hero</strong> desenvolvido durante a 11ª edição da Semana Omnistack da <a href="https://rocketseat.com.br">Rocketseat</a> 🚀👩🏽‍🚀</p>
 
@@ -8,6 +11,10 @@
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
+
+## 🤔 Sobre este Projeto
+
+O objetivo do projeto é permitir que você crie sua ONG e entre em contato com outras, fazendo doações e ajudando elas a resolverem os seus problemas, tornando-se assim o **herói** do caso daquela ONG.
 
 ## 🚀 Instalação
 
