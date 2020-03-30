@@ -1,0 +1,38 @@
+    // const params = req.query;
+    // const params = req.params;
+    // const body = req.body;
+
+
+/**
+ * Métodos HTTP:
+ * 
+ * GET: Buscar/listar informação do back-end
+ * POST: Criar uma informação no back-end
+ * PUT: Alterar uma informação no back-end
+ * DELETE: Deletar uma informação no back-end
+ */
+
+ /**
+  * Tipos de parâmetros:
+  * 
+  * Query Params: Parâmetros nomeados enviado na rota após "?" (Filtros, paginação)
+  * Route Params: Parâmetros utitilizados para identificar recursos
+  * Request Body: Corpo da requisição, utilizado para criar ou alterar recursos
+  */
+
+  /**
+   * SQL: MySQL, SQLite, PostGreSQL, Oracle, Microsoft SQL Server
+   * NoSQL: MongoDB, etc
+   */
+
+   /**
+    * Driver: SELECT * FROM users
+    * Query Buider: table('users').select('*').where()
+    */
+
+
+ESTUDOS DAQUI PRA FRENTE:
+Padrões de código: ESLint, Prettier;
+Autenticação JWT;
+Styled Components;
+
