@@ -11,7 +11,7 @@ alt="Be The Hero"
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
-- [Jest](https://jestjs.io/
+- [Jest](https://jestjs.io/)
 - [SQLite3](https://www.sqlite.org/index.html)
 - [Celebrate](https://www.npmjs.com/package/celebrate)
 
